@@ -1,5 +1,3 @@
-import regex as re
-
 class Tokenizer:
 
     def __init__(self, corpus,vocab_size):
